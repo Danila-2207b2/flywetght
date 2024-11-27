@@ -1,0 +1,7 @@
+C:\Users\chees\Desktop\Flyweight_pattern\bin\Debug\Flyweight_pattern.exe.config
+C:\Users\chees\Desktop\Flyweight_pattern\bin\Debug\Flyweight_pattern.exe
+C:\Users\chees\Desktop\Flyweight_pattern\bin\Debug\Flyweight_pattern.pdb
+C:\Users\chees\Desktop\Flyweight_pattern\obj\Debug\Flyweight_pattern.csproj.AssemblyReference.cache
+C:\Users\chees\Desktop\Flyweight_pattern\obj\Debug\Flyweight_pattern.csproj.CoreCompileInputs.cache
+C:\Users\chees\Desktop\Flyweight_pattern\obj\Debug\Flyweight_pattern.exe
+C:\Users\chees\Desktop\Flyweight_pattern\obj\Debug\Flyweight_pattern.pdb
